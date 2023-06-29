@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\bin\Debug\net7.0\Foreach.exe
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\bin\Debug\net7.0\Foreach.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\bin\Debug\net7.0\Foreach.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\bin\Debug\net7.0\Foreach.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\bin\Debug\net7.0\Foreach.pdb
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\obj\Debug\net7.0\Foreach.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\obj\Debug\net7.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\obj\Debug\net7.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\obj\Debug\net7.0\Foreach.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\obj\Debug\net7.0\refint\Foreach.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\obj\Debug\net7.0\Foreach.pdb
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\obj\Debug\net7.0\Foreach.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Foreach\obj\Debug\net7.0\ref\Foreach.dll

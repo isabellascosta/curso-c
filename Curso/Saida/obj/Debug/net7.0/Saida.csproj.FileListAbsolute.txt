@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\bin\Debug\net7.0\Saida.exe
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\bin\Debug\net7.0\Saida.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\bin\Debug\net7.0\Saida.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\bin\Debug\net7.0\Saida.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\bin\Debug\net7.0\Saida.pdb
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\obj\Debug\net7.0\Saida.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\obj\Debug\net7.0\Saida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\obj\Debug\net7.0\Saida.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\obj\Debug\net7.0\Saida.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\obj\Debug\net7.0\Saida.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\obj\Debug\net7.0\Saida.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\obj\Debug\net7.0\refint\Saida.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\obj\Debug\net7.0\Saida.pdb
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\obj\Debug\net7.0\Saida.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Saida\obj\Debug\net7.0\ref\Saida.dll

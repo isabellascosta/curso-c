@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\bin\Debug\net7.0\RefouOut.exe
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\bin\Debug\net7.0\RefouOut.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\bin\Debug\net7.0\RefouOut.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\bin\Debug\net7.0\RefouOut.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\bin\Debug\net7.0\RefouOut.pdb
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\obj\Debug\net7.0\RefouOut.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\obj\Debug\net7.0\RefouOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\obj\Debug\net7.0\RefouOut.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\obj\Debug\net7.0\RefouOut.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\obj\Debug\net7.0\RefouOut.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\obj\Debug\net7.0\RefouOut.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\obj\Debug\net7.0\refint\RefouOut.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\obj\Debug\net7.0\RefouOut.pdb
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\obj\Debug\net7.0\RefouOut.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\RefouOut\obj\Debug\net7.0\ref\RefouOut.dll

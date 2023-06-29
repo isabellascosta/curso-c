@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.exe
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.pdb
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\obj\Debug\net7.0\refint\EstruturaCondicional.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.pdb
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\EstruturaCondicional\obj\Debug\net7.0\ref\EstruturaCondicional.dll

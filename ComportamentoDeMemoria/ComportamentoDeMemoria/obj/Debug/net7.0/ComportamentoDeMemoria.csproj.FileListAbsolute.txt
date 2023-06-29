@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\bin\Debug\net7.0\ComportamentoDeMemoria.exe
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\bin\Debug\net7.0\ComportamentoDeMemoria.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\bin\Debug\net7.0\ComportamentoDeMemoria.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\bin\Debug\net7.0\ComportamentoDeMemoria.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\bin\Debug\net7.0\ComportamentoDeMemoria.pdb
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\obj\Debug\net7.0\ComportamentoDeMemoria.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\obj\Debug\net7.0\ComportamentoDeMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\obj\Debug\net7.0\ComportamentoDeMemoria.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\obj\Debug\net7.0\ComportamentoDeMemoria.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\obj\Debug\net7.0\ComportamentoDeMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\obj\Debug\net7.0\ComportamentoDeMemoria.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\obj\Debug\net7.0\refint\ComportamentoDeMemoria.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\obj\Debug\net7.0\ComportamentoDeMemoria.pdb
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\obj\Debug\net7.0\ComportamentoDeMemoria.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ComportamentoDeMemoria\obj\Debug\net7.0\ref\ComportamentoDeMemoria.dll

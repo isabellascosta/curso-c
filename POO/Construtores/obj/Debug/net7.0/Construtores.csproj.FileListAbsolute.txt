@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\obj\Debug\net7.0\Construtores.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\obj\Debug\net7.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\obj\Debug\net7.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\bin\Debug\net7.0\Construtores.exe
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\bin\Debug\net7.0\Construtores.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\bin\Debug\net7.0\Construtores.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\bin\Debug\net7.0\Construtores.dll
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\bin\Debug\net7.0\Construtores.pdb
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\obj\Debug\net7.0\Construtores.dll
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\obj\Debug\net7.0\refint\Construtores.dll
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\obj\Debug\net7.0\Construtores.pdb
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\obj\Debug\net7.0\Construtores.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\Construtores\obj\Debug\net7.0\ref\Construtores.dll

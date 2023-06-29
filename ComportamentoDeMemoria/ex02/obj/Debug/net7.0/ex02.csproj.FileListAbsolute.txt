@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\bin\Debug\net7.0\ex02.exe
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\bin\Debug\net7.0\ex02.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\bin\Debug\net7.0\ex02.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\bin\Debug\net7.0\ex02.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\bin\Debug\net7.0\ex02.pdb
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\obj\Debug\net7.0\ex02.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\obj\Debug\net7.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\obj\Debug\net7.0\ex02.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\obj\Debug\net7.0\ex02.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\obj\Debug\net7.0\ex02.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\obj\Debug\net7.0\ex02.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\obj\Debug\net7.0\refint\ex02.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\obj\Debug\net7.0\ex02.pdb
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\obj\Debug\net7.0\ex02.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\ex02\obj\Debug\net7.0\ref\ex02.dll

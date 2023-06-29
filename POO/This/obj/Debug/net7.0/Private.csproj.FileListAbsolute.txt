@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\bin\Debug\net7.0\Private.exe
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\bin\Debug\net7.0\Private.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\bin\Debug\net7.0\Private.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\bin\Debug\net7.0\Private.dll
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\bin\Debug\net7.0\Private.pdb
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\obj\Debug\net7.0\Private.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\obj\Debug\net7.0\Private.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\obj\Debug\net7.0\Private.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\obj\Debug\net7.0\Private.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\obj\Debug\net7.0\Private.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\obj\Debug\net7.0\Private.dll
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\obj\Debug\net7.0\refint\Private.dll
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\obj\Debug\net7.0\Private.pdb
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\obj\Debug\net7.0\Private.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\This\obj\Debug\net7.0\ref\Private.dll

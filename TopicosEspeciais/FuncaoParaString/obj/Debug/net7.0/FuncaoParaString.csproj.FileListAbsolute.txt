@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\bin\Debug\net7.0\FuncaoParaString.exe
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\bin\Debug\net7.0\FuncaoParaString.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\bin\Debug\net7.0\FuncaoParaString.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\bin\Debug\net7.0\FuncaoParaString.dll
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\bin\Debug\net7.0\FuncaoParaString.pdb
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\obj\Debug\net7.0\FuncaoParaString.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\obj\Debug\net7.0\FuncaoParaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\obj\Debug\net7.0\FuncaoParaString.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\obj\Debug\net7.0\FuncaoParaString.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\obj\Debug\net7.0\FuncaoParaString.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\obj\Debug\net7.0\FuncaoParaString.dll
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\obj\Debug\net7.0\refint\FuncaoParaString.dll
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\obj\Debug\net7.0\FuncaoParaString.pdb
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\obj\Debug\net7.0\FuncaoParaString.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\FuncaoParaString\obj\Debug\net7.0\ref\FuncaoParaString.dll

@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\bin\Debug\net7.0\Nullable.exe
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\bin\Debug\net7.0\Nullable.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\bin\Debug\net7.0\Nullable.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\bin\Debug\net7.0\Nullable.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\bin\Debug\net7.0\Nullable.pdb
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\obj\Debug\net7.0\Nullable.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\obj\Debug\net7.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\obj\Debug\net7.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\obj\Debug\net7.0\Nullable.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\obj\Debug\net7.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\obj\Debug\net7.0\Nullable.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\obj\Debug\net7.0\refint\Nullable.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\obj\Debug\net7.0\Nullable.pdb
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\obj\Debug\net7.0\Nullable.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Nullable\obj\Debug\net7.0\ref\Nullable.dll

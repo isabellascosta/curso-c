@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\bin\Debug\net7.0\Conversao.exe
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\bin\Debug\net7.0\Conversao.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\bin\Debug\net7.0\Conversao.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\bin\Debug\net7.0\Conversao.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\bin\Debug\net7.0\Conversao.pdb
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\obj\Debug\net7.0\Conversao.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\obj\Debug\net7.0\Conversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\obj\Debug\net7.0\Conversao.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\obj\Debug\net7.0\Conversao.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\obj\Debug\net7.0\Conversao.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\obj\Debug\net7.0\Conversao.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\obj\Debug\net7.0\refint\Conversao.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\obj\Debug\net7.0\Conversao.pdb
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\obj\Debug\net7.0\Conversao.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Conversão implícita\obj\Debug\net7.0\ref\Conversao.dll

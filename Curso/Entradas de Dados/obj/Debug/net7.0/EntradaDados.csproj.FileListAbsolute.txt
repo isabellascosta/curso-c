@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\bin\Debug\net7.0\EntradaDados.exe
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\bin\Debug\net7.0\EntradaDados.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\bin\Debug\net7.0\EntradaDados.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\bin\Debug\net7.0\EntradaDados.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\bin\Debug\net7.0\EntradaDados.pdb
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\obj\Debug\net7.0\EntradaDados.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\obj\Debug\net7.0\EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\obj\Debug\net7.0\EntradaDados.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\obj\Debug\net7.0\EntradaDados.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\obj\Debug\net7.0\EntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\obj\Debug\net7.0\EntradaDados.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\obj\Debug\net7.0\refint\EntradaDados.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\obj\Debug\net7.0\EntradaDados.pdb
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\obj\Debug\net7.0\EntradaDados.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Entradas de Dados\obj\Debug\net7.0\ref\EntradaDados.dll

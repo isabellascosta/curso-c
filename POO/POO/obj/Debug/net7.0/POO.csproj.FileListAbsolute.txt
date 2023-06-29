@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\bin\Debug\net7.0\POO.exe
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\bin\Debug\net7.0\POO.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\bin\Debug\net7.0\POO.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\bin\Debug\net7.0\POO.dll
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\bin\Debug\net7.0\POO.pdb
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\obj\Debug\net7.0\POO.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\obj\Debug\net7.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\obj\Debug\net7.0\POO.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\obj\Debug\net7.0\POO.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\obj\Debug\net7.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\obj\Debug\net7.0\POO.dll
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\obj\Debug\net7.0\refint\POO.dll
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\obj\Debug\net7.0\POO.pdb
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\obj\Debug\net7.0\POO.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\POO\obj\Debug\net7.0\ref\POO.dll

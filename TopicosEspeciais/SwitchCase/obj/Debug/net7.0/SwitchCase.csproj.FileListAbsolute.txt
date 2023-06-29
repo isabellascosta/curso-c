@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll

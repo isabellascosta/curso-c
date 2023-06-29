@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\bin\Debug\net7.0\OperadoresComparativos.exe
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\bin\Debug\net7.0\OperadoresComparativos.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\bin\Debug\net7.0\OperadoresComparativos.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\bin\Debug\net7.0\OperadoresComparativos.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\bin\Debug\net7.0\OperadoresComparativos.pdb
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\obj\Debug\net7.0\OperadoresComparativos.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\obj\Debug\net7.0\OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\obj\Debug\net7.0\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\obj\Debug\net7.0\OperadoresComparativos.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\obj\Debug\net7.0\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\obj\Debug\net7.0\OperadoresComparativos.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\obj\Debug\net7.0\refint\OperadoresComparativos.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\obj\Debug\net7.0\OperadoresComparativos.pdb
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\obj\Debug\net7.0\OperadoresComparativos.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\OperadoresComparativos\obj\Debug\net7.0\ref\OperadoresComparativos.dll

@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\bin\Debug\net7.0\exbiel.exe
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\bin\Debug\net7.0\exbiel.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\bin\Debug\net7.0\exbiel.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\bin\Debug\net7.0\exbiel.dll
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\bin\Debug\net7.0\exbiel.pdb
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\obj\Debug\net7.0\exbiel.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\obj\Debug\net7.0\exbiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\obj\Debug\net7.0\exbiel.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\obj\Debug\net7.0\exbiel.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\obj\Debug\net7.0\exbiel.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\obj\Debug\net7.0\exbiel.dll
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\obj\Debug\net7.0\refint\exbiel.dll
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\obj\Debug\net7.0\exbiel.pdb
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\obj\Debug\net7.0\exbiel.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\TopicosEspeciais\exbiel\obj\Debug\net7.0\ref\exbiel.dll

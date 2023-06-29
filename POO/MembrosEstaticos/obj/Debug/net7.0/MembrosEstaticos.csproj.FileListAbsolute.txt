@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.exe
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.dll
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.pdb
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.dll
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\obj\Debug\net7.0\refint\MembrosEstaticos.dll
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.pdb
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\POO\MembrosEstaticos\obj\Debug\net7.0\ref\MembrosEstaticos.dll

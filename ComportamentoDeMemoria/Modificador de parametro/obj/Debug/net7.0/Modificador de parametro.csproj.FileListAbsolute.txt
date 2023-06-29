@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\bin\Debug\net7.0\Modificador de parametro.exe
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\bin\Debug\net7.0\Modificador de parametro.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\bin\Debug\net7.0\Modificador de parametro.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\bin\Debug\net7.0\Modificador de parametro.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\bin\Debug\net7.0\Modificador de parametro.pdb
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\obj\Debug\net7.0\Modificador de parametro.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\obj\Debug\net7.0\Modificador de parametro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\obj\Debug\net7.0\Modificador de parametro.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\obj\Debug\net7.0\Modificador de parametro.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\obj\Debug\net7.0\Modificador de parametro.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\obj\Debug\net7.0\Modificador de parametro.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\obj\Debug\net7.0\refint\Modificador de parametro.dll
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\obj\Debug\net7.0\Modificador de parametro.pdb
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\obj\Debug\net7.0\Modificador de parametro.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\ComportamentoDeMemoria\Modificador de parametro\obj\Debug\net7.0\ref\Modificador de parametro.dll

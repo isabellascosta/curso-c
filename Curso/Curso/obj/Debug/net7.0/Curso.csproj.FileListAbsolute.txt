@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\bin\Debug\net7.0\Curso.exe
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\bin\Debug\net7.0\Curso.deps.json
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\bin\Debug\net7.0\Curso.runtimeconfig.json
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\bin\Debug\net7.0\Curso.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\bin\Debug\net7.0\Curso.pdb
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\obj\Debug\net7.0\Curso.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\obj\Debug\net7.0\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\obj\Debug\net7.0\Curso.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\obj\Debug\net7.0\Curso.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\obj\Debug\net7.0\Curso.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\obj\Debug\net7.0\Curso.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\obj\Debug\net7.0\refint\Curso.dll
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\obj\Debug\net7.0\Curso.pdb
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\obj\Debug\net7.0\Curso.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\Curso_C\Curso\Curso\obj\Debug\net7.0\ref\Curso.dll
