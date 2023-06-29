@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\FuncaoParaString\\FuncaoParaString.csproj": {}
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\FuncaoParaString\\FuncaoParaString.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\FuncaoParaString\\FuncaoParaString.csproj": {
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\FuncaoParaString\\FuncaoParaString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\FuncaoParaString\\FuncaoParaString.csproj",
+        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\FuncaoParaString\\FuncaoParaString.csproj",
         "projectName": "FuncaoParaString",
-        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\FuncaoParaString\\FuncaoParaString.csproj",
+        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\FuncaoParaString\\FuncaoParaString.csproj",
         "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\FuncaoParaString\\obj\\",
+        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\FuncaoParaString\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

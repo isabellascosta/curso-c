@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\exbiel\\exbiel.csproj",
+      "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\exbiel\\exbiel.csproj",
       "projectName": "exbiel",
-      "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\exbiel\\exbiel.csproj",
+      "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\exbiel\\exbiel.csproj",
       "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\exbiel\\obj\\",
+      "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\exbiel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

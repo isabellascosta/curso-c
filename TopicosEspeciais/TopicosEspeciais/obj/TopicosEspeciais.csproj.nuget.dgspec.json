@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\TopicosEspeciais\\TopicosEspeciais.csproj": {}
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\TopicosEspeciais\\TopicosEspeciais.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\TopicosEspeciais\\TopicosEspeciais.csproj": {
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\TopicosEspeciais\\TopicosEspeciais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\TopicosEspeciais\\TopicosEspeciais.csproj",
+        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\TopicosEspeciais\\TopicosEspeciais.csproj",
         "projectName": "TopicosEspeciais",
-        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\TopicosEspeciais\\TopicosEspeciais.csproj",
+        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\TopicosEspeciais\\TopicosEspeciais.csproj",
         "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\TopicosEspeciais\\obj\\",
+        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\TopicosEspeciais\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

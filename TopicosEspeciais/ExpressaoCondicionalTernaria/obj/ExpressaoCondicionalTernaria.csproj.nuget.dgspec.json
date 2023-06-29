@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\ExpressaoCondicionalTernaria\\ExpressaoCondicionalTernaria.csproj": {}
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\ExpressaoCondicionalTernaria\\ExpressaoCondicionalTernaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\ExpressaoCondicionalTernaria\\ExpressaoCondicionalTernaria.csproj": {
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\ExpressaoCondicionalTernaria\\ExpressaoCondicionalTernaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\ExpressaoCondicionalTernaria\\ExpressaoCondicionalTernaria.csproj",
+        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\ExpressaoCondicionalTernaria\\ExpressaoCondicionalTernaria.csproj",
         "projectName": "ExpressaoCondicionalTernaria",
-        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\ExpressaoCondicionalTernaria\\ExpressaoCondicionalTernaria.csproj",
+        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\ExpressaoCondicionalTernaria\\ExpressaoCondicionalTernaria.csproj",
         "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\ExpressaoCondicionalTernaria\\obj\\",
+        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\ExpressaoCondicionalTernaria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

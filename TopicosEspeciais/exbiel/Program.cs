@@ -6,7 +6,11 @@ namespace TopicosEspeciais
     {
         static void Main(string[] args)
         {
-                Console.WriteLine("Digite um numero:");
+
+            //linha de alteração para testar no github
+            Console.WriteLine("Seja  bem vindo ao projeto de verificar numeros");
+            //fim da linha teste
+            Console.WriteLine("Digite um numero:");
                 string n = Console.ReadLine();
                 if (n.Length == 4)
                 {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\PadraoIso8601\\PadraoIso8601.csproj": {}
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\PadraoIso8601\\PadraoIso8601.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\PadraoIso8601\\PadraoIso8601.csproj": {
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\PadraoIso8601\\PadraoIso8601.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\PadraoIso8601\\PadraoIso8601.csproj",
+        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\PadraoIso8601\\PadraoIso8601.csproj",
         "projectName": "PadraoIso8601",
-        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\PadraoIso8601\\PadraoIso8601.csproj",
+        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\PadraoIso8601\\PadraoIso8601.csproj",
         "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\TopicosEspeciais\\PadraoIso8601\\obj\\",
+        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\TopicosEspeciais\\PadraoIso8601\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
