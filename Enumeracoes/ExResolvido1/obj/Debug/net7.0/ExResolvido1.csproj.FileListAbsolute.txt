@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\bin\Debug\net7.0\ExResolvido1.exe
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\bin\Debug\net7.0\ExResolvido1.deps.json
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\bin\Debug\net7.0\ExResolvido1.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\bin\Debug\net7.0\ExResolvido1.dll
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\bin\Debug\net7.0\ExResolvido1.pdb
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\obj\Debug\net7.0\ExResolvido1.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\obj\Debug\net7.0\ExResolvido1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\obj\Debug\net7.0\ExResolvido1.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\obj\Debug\net7.0\ExResolvido1.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\obj\Debug\net7.0\ExResolvido1.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\obj\Debug\net7.0\ExResolvido1.dll
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\obj\Debug\net7.0\refint\ExResolvido1.dll
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\obj\Debug\net7.0\ExResolvido1.pdb
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\obj\Debug\net7.0\ExResolvido1.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\Enumeracoes\ExResolvido1\obj\Debug\net7.0\ref\ExResolvido1.dll
