@@ -11,6 +11,7 @@ namespace ExResolvido1.Entities
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
         public Department  Department { get; set; }
+        //Foi instancia para garantir que a lista não fosse nula
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
 
         public Worker()
@@ -19,6 +20,7 @@ namespace ExResolvido1.Entities
 
         public Worker(string name, WorkerLevel level, double baseSalary, Department department)
         {
+            //Via de regra não adiciona listas ou relacionamentos para muitos no construtor
             Name = name;
             Level = level;
             BaseSalary = baseSalary;

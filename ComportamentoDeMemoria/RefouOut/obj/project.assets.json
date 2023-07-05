@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\RefouOut\\RefouOut.csproj",
+      "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\RefouOut\\RefouOut.csproj",
       "projectName": "RefouOut",
-      "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\RefouOut\\RefouOut.csproj",
+      "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\RefouOut\\RefouOut.csproj",
       "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\RefouOut\\obj\\",
+      "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\RefouOut\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

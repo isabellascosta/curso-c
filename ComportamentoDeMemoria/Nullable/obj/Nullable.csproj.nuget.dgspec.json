@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Nullable\\Nullable.csproj": {}
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Nullable\\Nullable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Nullable\\Nullable.csproj": {
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Nullable\\Nullable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Nullable\\Nullable.csproj",
+        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Nullable\\Nullable.csproj",
         "projectName": "Nullable",
-        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Nullable\\Nullable.csproj",
+        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Nullable\\Nullable.csproj",
         "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Nullable\\obj\\",
+        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Nullable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

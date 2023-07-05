@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Exresolvido2/1.0.0": {
+        "runtime": {
+          "Exresolvido2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exresolvido2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

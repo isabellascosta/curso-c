@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Foreach\\Foreach.csproj": {}
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Foreach\\Foreach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Foreach\\Foreach.csproj": {
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Foreach\\Foreach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Foreach\\Foreach.csproj",
+        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Foreach\\Foreach.csproj",
         "projectName": "Foreach",
-        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Foreach\\Foreach.csproj",
+        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Foreach\\Foreach.csproj",
         "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Foreach\\obj\\",
+        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Foreach\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

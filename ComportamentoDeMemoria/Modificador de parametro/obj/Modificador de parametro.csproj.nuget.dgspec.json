@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Modificador de parametro\\Modificador de parametro.csproj": {}
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Modificador de parametro\\Modificador de parametro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Modificador de parametro\\Modificador de parametro.csproj": {
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Modificador de parametro\\Modificador de parametro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Modificador de parametro\\Modificador de parametro.csproj",
+        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Modificador de parametro\\Modificador de parametro.csproj",
         "projectName": "Modificador de parametro",
-        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Modificador de parametro\\Modificador de parametro.csproj",
+        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Modificador de parametro\\Modificador de parametro.csproj",
         "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\ComportamentoDeMemoria\\Modificador de parametro\\obj\\",
+        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\ComportamentoDeMemoria\\Modificador de parametro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
