@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.exe
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.deps.json
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.dll
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.pdb
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.dll
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\obj\Debug\net7.0\refint\ExercicioResolvido.dll
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.pdb
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ExercicioResolvido\obj\Debug\net7.0\ref\ExercicioResolvido.dll
