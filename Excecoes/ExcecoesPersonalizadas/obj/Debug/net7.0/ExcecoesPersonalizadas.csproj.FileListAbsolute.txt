@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\bin\Debug\net7.0\ExcecoesPersonalizadas.exe
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\bin\Debug\net7.0\ExcecoesPersonalizadas.deps.json
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\bin\Debug\net7.0\ExcecoesPersonalizadas.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\bin\Debug\net7.0\ExcecoesPersonalizadas.dll
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\bin\Debug\net7.0\ExcecoesPersonalizadas.pdb
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.dll
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\obj\Debug\net7.0\refint\ExcecoesPersonalizadas.dll
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.pdb
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\Excecoes\ExcecoesPersonalizadas\obj\Debug\net7.0\ref\ExcecoesPersonalizadas.dll

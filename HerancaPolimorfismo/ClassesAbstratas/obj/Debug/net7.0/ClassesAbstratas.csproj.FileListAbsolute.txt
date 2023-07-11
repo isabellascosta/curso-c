@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\bin\Debug\net7.0\ClassesAbstratas.exe
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\bin\Debug\net7.0\ClassesAbstratas.deps.json
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\bin\Debug\net7.0\ClassesAbstratas.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\bin\Debug\net7.0\ClassesAbstratas.dll
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\bin\Debug\net7.0\ClassesAbstratas.pdb
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.dll
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\obj\Debug\net7.0\refint\ClassesAbstratas.dll
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.pdb
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\HerancaPolimorfismo\ClassesAbstratas\obj\Debug\net7.0\ref\ClassesAbstratas.dll
