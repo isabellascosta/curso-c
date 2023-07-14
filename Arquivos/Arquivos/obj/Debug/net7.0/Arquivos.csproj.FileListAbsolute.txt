@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\bin\Debug\net7.0\Arquivos.exe
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\bin\Debug\net7.0\Arquivos.deps.json
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\bin\Debug\net7.0\Arquivos.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\bin\Debug\net7.0\Arquivos.dll
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\bin\Debug\net7.0\Arquivos.pdb
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\obj\Debug\net7.0\Arquivos.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\obj\Debug\net7.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\obj\Debug\net7.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\obj\Debug\net7.0\Arquivos.dll
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\obj\Debug\net7.0\refint\Arquivos.dll
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\obj\Debug\net7.0\Arquivos.pdb
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\obj\Debug\net7.0\Arquivos.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\Arquivos\obj\Debug\net7.0\ref\Arquivos.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Properties\\Properties.csproj": {}
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Properties\\Properties.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Properties\\Properties.csproj": {
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Properties\\Properties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Properties\\Properties.csproj",
+        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Properties\\Properties.csproj",
         "projectName": "Properties",
-        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Properties\\Properties.csproj",
+        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Properties\\Properties.csproj",
         "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Properties\\obj\\",
+        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Properties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mkeEiUnk8JXY+qbFmRVgM0k51a/JeyUnpXOYr4NUNT5ulbTAvuSAjy29vV0sH4PE1OHMCo+UmoV2kyFrr0X2cg==",
+  "dgSpecHash": "nmcOr504QOAesWWYGjducFvInBZZE1Rtdcx068ffuBJNnL2+xwKAjGu2GQ8EvMya/Wbn/1v+IBKwzI7Q9hGpkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Properties\\Properties.csproj",
+  "projectFilePath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Properties\\Properties.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

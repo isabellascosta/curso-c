@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Construtores\\Construtores.csproj",
+      "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Construtores\\Construtores.csproj",
       "projectName": "Construtores",
-      "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Construtores\\Construtores.csproj",
+      "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Construtores\\Construtores.csproj",
       "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Construtores\\obj\\",
+      "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Construtores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

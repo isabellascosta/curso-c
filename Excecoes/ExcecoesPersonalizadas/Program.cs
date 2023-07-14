@@ -41,6 +41,10 @@ namespace Course
             {
                 Console.WriteLine("Format error: "+e.Message);
             }
+            catch(Exception e)
+            {
+                Console.WriteLine("Error: "+e.Message);
+            }
 
         }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\POO\\POO.csproj": {}
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\POO\\POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\POO\\POO.csproj": {
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\POO\\POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\POO\\POO.csproj",
+        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\POO\\POO.csproj",
         "projectName": "POO",
-        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\POO\\POO.csproj",
+        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\POO\\POO.csproj",
         "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\POO\\obj\\",
+        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\POO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

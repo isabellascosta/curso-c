@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Calculadora\\Calculadora.csproj",
+      "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Calculadora\\obj\\",
+      "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

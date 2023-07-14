@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\This\\Private.csproj": {}
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\This\\Private.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\This\\Private.csproj": {
+    "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\This\\Private.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\This\\Private.csproj",
+        "projectUniqueName": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\This\\Private.csproj",
         "projectName": "Private",
-        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\This\\Private.csproj",
+        "projectPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\This\\Private.csproj",
         "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\This\\obj\\",
+        "outputPath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\This\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

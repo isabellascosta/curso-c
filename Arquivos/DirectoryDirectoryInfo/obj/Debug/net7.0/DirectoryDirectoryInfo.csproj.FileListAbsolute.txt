@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\bin\Debug\net7.0\DirectoryDirectoryInfo.exe
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\bin\Debug\net7.0\DirectoryDirectoryInfo.deps.json
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\bin\Debug\net7.0\DirectoryDirectoryInfo.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\bin\Debug\net7.0\DirectoryDirectoryInfo.dll
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\bin\Debug\net7.0\DirectoryDirectoryInfo.pdb
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.dll
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\obj\Debug\net7.0\refint\DirectoryDirectoryInfo.dll
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.pdb
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\Arquivos\DirectoryDirectoryInfo\obj\Debug\net7.0\ref\DirectoryDirectoryInfo.dll

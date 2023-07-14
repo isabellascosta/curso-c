@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+cQ7q44zzkthPtWRbENmrx5t37tEIJsTHvTsYwbEa0/ePFcd0HGbK9KfBfVmMGbmVqkTTLtlVUfh8+lE0CmJSw==",
+  "dgSpecHash": "9jH8j+g0cRCwGHbjwsImmOZHlzIrjieWlBrpXreEBOX88cnfASdoAO3Mnay5gJIxkb8rpWgnxkcg9BB60YA11w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isabella\\source\\Repos\\Curso_C\\POO\\Calculadora\\Calculadora.csproj",
+  "projectFilePath": "C:\\Users\\Isabella\\source\\Repos\\curso-c\\POO\\Calculadora\\Calculadora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
