@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\bin\Debug\net7.0\ProblemadoDiamante.exe
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\bin\Debug\net7.0\ProblemadoDiamante.deps.json
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\bin\Debug\net7.0\ProblemadoDiamante.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\bin\Debug\net7.0\ProblemadoDiamante.dll
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\bin\Debug\net7.0\ProblemadoDiamante.pdb
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\obj\Debug\net7.0\ProblemadoDiamante.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\obj\Debug\net7.0\ProblemadoDiamante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\obj\Debug\net7.0\ProblemadoDiamante.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\obj\Debug\net7.0\ProblemadoDiamante.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\obj\Debug\net7.0\ProblemadoDiamante.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\obj\Debug\net7.0\ProblemadoDiamante.dll
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\obj\Debug\net7.0\refint\ProblemadoDiamante.dll
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\obj\Debug\net7.0\ProblemadoDiamante.pdb
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\obj\Debug\net7.0\ProblemadoDiamante.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ProblemadoDiamante\obj\Debug\net7.0\ref\ProblemadoDiamante.dll

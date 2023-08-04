@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\bin\Debug\net7.0\IComparable.exe
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\bin\Debug\net7.0\IComparable.deps.json
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\bin\Debug\net7.0\IComparable.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\bin\Debug\net7.0\IComparable.dll
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\bin\Debug\net7.0\IComparable.pdb
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\obj\Debug\net7.0\IComparable.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\obj\Debug\net7.0\IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\obj\Debug\net7.0\IComparable.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\obj\Debug\net7.0\IComparable.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\obj\Debug\net7.0\IComparable.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\obj\Debug\net7.0\IComparable.dll
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\obj\Debug\net7.0\refint\IComparable.dll
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\obj\Debug\net7.0\IComparable.pdb
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\obj\Debug\net7.0\IComparable.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\IComparable\obj\Debug\net7.0\ref\IComparable.dll

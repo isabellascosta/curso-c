@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\bin\Debug\net7.0\ContratoeInterface.exe
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\bin\Debug\net7.0\ContratoeInterface.deps.json
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\bin\Debug\net7.0\ContratoeInterface.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\bin\Debug\net7.0\ContratoeInterface.dll
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\bin\Debug\net7.0\ContratoeInterface.pdb
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\obj\Debug\net7.0\ContratoeInterface.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\obj\Debug\net7.0\ContratoeInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\obj\Debug\net7.0\ContratoeInterface.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\obj\Debug\net7.0\ContratoeInterface.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\obj\Debug\net7.0\ContratoeInterface.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\obj\Debug\net7.0\ContratoeInterface.dll
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\obj\Debug\net7.0\refint\ContratoeInterface.dll
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\obj\Debug\net7.0\ContratoeInterface.pdb
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\obj\Debug\net7.0\ContratoeInterface.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\Interfaces\ContratoeInterface\obj\Debug\net7.0\ref\ContratoeInterface.dll

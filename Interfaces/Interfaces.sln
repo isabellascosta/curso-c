@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{D95D7CEB-1AFC-4A5F-B3A0-2632BD29F597}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{D95D7CEB-1AFC-4A5F-B3A0-2632BD29F597}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex01", "Ex01\Ex01.csproj", "{89708066-BA5D-4E88-A849-EB5BB8A91861}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContratoeInterface", "ContratoeInterface\ContratoeInterface.csproj", "{14EB5896-908E-43BB-A1F6-FB8CF8576B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemadoDiamante", "ProblemadoDiamante\ProblemadoDiamante.csproj", "{C4D02F86-B3C3-4384-8756-06B28F632C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparablestudy", "IComparable\IComparablestudy.csproj", "{84D6D604-41B3-4775-9820-1FCD5253D526}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{D95D7CEB-1AFC-4A5F-B3A0-2632BD29F597}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D95D7CEB-1AFC-4A5F-B3A0-2632BD29F597}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D95D7CEB-1AFC-4A5F-B3A0-2632BD29F597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89708066-BA5D-4E88-A849-EB5BB8A91861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89708066-BA5D-4E88-A849-EB5BB8A91861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89708066-BA5D-4E88-A849-EB5BB8A91861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89708066-BA5D-4E88-A849-EB5BB8A91861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14EB5896-908E-43BB-A1F6-FB8CF8576B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14EB5896-908E-43BB-A1F6-FB8CF8576B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14EB5896-908E-43BB-A1F6-FB8CF8576B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14EB5896-908E-43BB-A1F6-FB8CF8576B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D02F86-B3C3-4384-8756-06B28F632C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D02F86-B3C3-4384-8756-06B28F632C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D02F86-B3C3-4384-8756-06B28F632C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D02F86-B3C3-4384-8756-06B28F632C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D6D604-41B3-4775-9820-1FCD5253D526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D6D604-41B3-4775-9820-1FCD5253D526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D6D604-41B3-4775-9820-1FCD5253D526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D6D604-41B3-4775-9820-1FCD5253D526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
