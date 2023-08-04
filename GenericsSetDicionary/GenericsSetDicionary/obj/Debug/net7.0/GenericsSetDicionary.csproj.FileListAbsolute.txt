@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\bin\Debug\net7.0\GenericsSetDicionary.exe
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\bin\Debug\net7.0\GenericsSetDicionary.deps.json
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\bin\Debug\net7.0\GenericsSetDicionary.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\bin\Debug\net7.0\GenericsSetDicionary.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\bin\Debug\net7.0\GenericsSetDicionary.pdb
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\net7.0\GenericsSetDicionary.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\net7.0\GenericsSetDicionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\net7.0\GenericsSetDicionary.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\net7.0\GenericsSetDicionary.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\net7.0\GenericsSetDicionary.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\net7.0\GenericsSetDicionary.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\net7.0\refint\GenericsSetDicionary.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\net7.0\GenericsSetDicionary.pdb
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\net7.0\GenericsSetDicionary.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\net7.0\ref\GenericsSetDicionary.dll
