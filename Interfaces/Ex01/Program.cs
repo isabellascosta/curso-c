@@ -23,11 +23,15 @@ namespace Course
 
             Console.Write("Enter number  of installment: ");
             int amountinstall = int.Parse(Console.ReadLine());
-            Parcelas installment = new Parcelas(amount);
+            Parcelas installment = new Parcelas(amountinstall);
             Console.WriteLine("installments: ");
             ContratoServico contractService = new ContratoServico(new PaypalServico());
             contractService.ProcessContract(contract, amountinstall);
-            
+            Console.WriteLine(contractService);
+            DateTime teste = contractService.ProcessDate(new (contract,contract.Parcelas));
+
+
+
         }
     }
 }

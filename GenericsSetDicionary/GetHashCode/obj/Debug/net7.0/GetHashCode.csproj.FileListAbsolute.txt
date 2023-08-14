@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\bin\Debug\net7.0\GetHashCode.exe
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\bin\Debug\net7.0\GetHashCode.deps.json
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\bin\Debug\net7.0\GetHashCode.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\bin\Debug\net7.0\GetHashCode.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\bin\Debug\net7.0\GetHashCode.pdb
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\obj\Debug\net7.0\GetHashCode.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\obj\Debug\net7.0\GetHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\obj\Debug\net7.0\GetHashCode.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\obj\Debug\net7.0\GetHashCode.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\obj\Debug\net7.0\GetHashCode.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\obj\Debug\net7.0\GetHashCode.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\obj\Debug\net7.0\refint\GetHashCode.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\obj\Debug\net7.0\GetHashCode.pdb
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\obj\Debug\net7.0\GetHashCode.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\GetHashCode\obj\Debug\net7.0\ref\GetHashCode.dll

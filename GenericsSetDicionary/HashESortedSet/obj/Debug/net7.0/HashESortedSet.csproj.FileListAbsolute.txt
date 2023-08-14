@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\bin\Debug\net7.0\HashESortedSet.exe
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\bin\Debug\net7.0\HashESortedSet.deps.json
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\bin\Debug\net7.0\HashESortedSet.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\bin\Debug\net7.0\HashESortedSet.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\bin\Debug\net7.0\HashESortedSet.pdb
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\obj\Debug\net7.0\HashESortedSet.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\obj\Debug\net7.0\HashESortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\obj\Debug\net7.0\HashESortedSet.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\obj\Debug\net7.0\HashESortedSet.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\obj\Debug\net7.0\HashESortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\obj\Debug\net7.0\HashESortedSet.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\obj\Debug\net7.0\refint\HashESortedSet.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\obj\Debug\net7.0\HashESortedSet.pdb
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\obj\Debug\net7.0\HashESortedSet.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\HashESortedSet\obj\Debug\net7.0\ref\HashESortedSet.dll

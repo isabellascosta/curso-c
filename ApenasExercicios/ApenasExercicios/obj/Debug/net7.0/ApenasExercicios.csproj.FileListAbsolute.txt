@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\bin\Debug\net7.0\ApenasExercicios.exe
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\bin\Debug\net7.0\ApenasExercicios.deps.json
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\bin\Debug\net7.0\ApenasExercicios.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\bin\Debug\net7.0\ApenasExercicios.dll
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\bin\Debug\net7.0\ApenasExercicios.pdb
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\obj\Debug\net7.0\ApenasExercicios.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\obj\Debug\net7.0\ApenasExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\obj\Debug\net7.0\ApenasExercicios.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\obj\Debug\net7.0\ApenasExercicios.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\obj\Debug\net7.0\ApenasExercicios.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\obj\Debug\net7.0\ApenasExercicios.dll
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\obj\Debug\net7.0\refint\ApenasExercicios.dll
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\obj\Debug\net7.0\ApenasExercicios.pdb
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\obj\Debug\net7.0\ApenasExercicios.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\ApenasExercicios\obj\Debug\net7.0\ref\ApenasExercicios.dll

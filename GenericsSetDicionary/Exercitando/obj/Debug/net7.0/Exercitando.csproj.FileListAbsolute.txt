@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\bin\Debug\net7.0\Exercitando.exe
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\bin\Debug\net7.0\Exercitando.deps.json
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\bin\Debug\net7.0\Exercitando.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\bin\Debug\net7.0\Exercitando.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\bin\Debug\net7.0\Exercitando.pdb
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\obj\Debug\net7.0\Exercitando.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\obj\Debug\net7.0\Exercitando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\obj\Debug\net7.0\Exercitando.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\obj\Debug\net7.0\Exercitando.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\obj\Debug\net7.0\Exercitando.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\obj\Debug\net7.0\Exercitando.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\obj\Debug\net7.0\refint\Exercitando.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\obj\Debug\net7.0\Exercitando.pdb
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\obj\Debug\net7.0\Exercitando.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\Exercitando\obj\Debug\net7.0\ref\Exercitando.dll

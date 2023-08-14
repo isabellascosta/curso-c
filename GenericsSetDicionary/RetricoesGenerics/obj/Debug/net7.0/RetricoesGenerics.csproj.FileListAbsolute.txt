@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\bin\Debug\net7.0\RetricoesGenerics.exe
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\bin\Debug\net7.0\RetricoesGenerics.deps.json
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\bin\Debug\net7.0\RetricoesGenerics.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\bin\Debug\net7.0\RetricoesGenerics.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\bin\Debug\net7.0\RetricoesGenerics.pdb
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\obj\Debug\net7.0\RetricoesGenerics.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\obj\Debug\net7.0\RetricoesGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\obj\Debug\net7.0\RetricoesGenerics.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\obj\Debug\net7.0\RetricoesGenerics.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\obj\Debug\net7.0\RetricoesGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\obj\Debug\net7.0\RetricoesGenerics.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\obj\Debug\net7.0\refint\RetricoesGenerics.dll
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\obj\Debug\net7.0\RetricoesGenerics.pdb
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\obj\Debug\net7.0\RetricoesGenerics.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\GenericsSetDicionary\RetricoesGenerics\obj\Debug\net7.0\ref\RetricoesGenerics.dll
