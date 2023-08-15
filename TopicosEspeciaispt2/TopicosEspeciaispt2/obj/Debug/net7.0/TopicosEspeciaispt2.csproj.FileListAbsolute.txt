@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\bin\Debug\net7.0\TopicosEspeciaispt2.exe
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\bin\Debug\net7.0\TopicosEspeciaispt2.deps.json
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\bin\Debug\net7.0\TopicosEspeciaispt2.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\bin\Debug\net7.0\TopicosEspeciaispt2.dll
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\bin\Debug\net7.0\TopicosEspeciaispt2.pdb
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\obj\Debug\net7.0\TopicosEspeciaispt2.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\obj\Debug\net7.0\TopicosEspeciaispt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\obj\Debug\net7.0\TopicosEspeciaispt2.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\obj\Debug\net7.0\TopicosEspeciaispt2.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\obj\Debug\net7.0\TopicosEspeciaispt2.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\obj\Debug\net7.0\TopicosEspeciaispt2.dll
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\obj\Debug\net7.0\refint\TopicosEspeciaispt2.dll
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\obj\Debug\net7.0\TopicosEspeciaispt2.pdb
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\obj\Debug\net7.0\TopicosEspeciaispt2.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\TopicosEspeciaispt2\TopicosEspeciaispt2\obj\Debug\net7.0\ref\TopicosEspeciaispt2.dll
