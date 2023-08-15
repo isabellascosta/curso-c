@@ -1,5 +1,4 @@
-﻿using Ex01.Entities;
-using System;
+﻿using System;
 using System.Linq;
 using System.Threading.Channels;
 
@@ -39,18 +38,6 @@ namespace GenericsSetDicionary
             courseA.UnionWith(courseB);
             courseA.UnionWith(courseC);
             Console.WriteLine("total de alunos: " + courseA.Count);
-
-
-        }
-        static void PrintColletions<T>(IEnumerable<T> colletions)
-        {
-            foreach (T obj in colletions)
-            {
-                Console.Write(obj + " ");
-
-            }
-            Console.WriteLine();
-
         }
     }
 }
