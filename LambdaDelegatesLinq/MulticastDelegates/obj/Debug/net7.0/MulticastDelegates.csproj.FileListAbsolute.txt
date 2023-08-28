@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.exe
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.deps.json
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.dll
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.pdb
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.dll
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\obj\Debug\net7.0\refint\MulticastDelegates.dll
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.pdb
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\MulticastDelegates\obj\Debug\net7.0\ref\MulticastDelegates.dll

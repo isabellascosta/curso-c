@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\bin\Debug\net7.0\DescobrindoIdades.exe
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\bin\Debug\net7.0\DescobrindoIdades.deps.json
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\bin\Debug\net7.0\DescobrindoIdades.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\bin\Debug\net7.0\DescobrindoIdades.dll
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\bin\Debug\net7.0\DescobrindoIdades.pdb
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\obj\Debug\net7.0\DescobrindoIdades.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\obj\Debug\net7.0\DescobrindoIdades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\obj\Debug\net7.0\DescobrindoIdades.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\obj\Debug\net7.0\DescobrindoIdades.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\obj\Debug\net7.0\DescobrindoIdades.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\obj\Debug\net7.0\DescobrindoIdades.dll
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\obj\Debug\net7.0\refint\DescobrindoIdades.dll
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\obj\Debug\net7.0\DescobrindoIdades.pdb
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\obj\Debug\net7.0\DescobrindoIdades.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\ApenasExercicios\Descobrindo idades\obj\Debug\net7.0\ref\DescobrindoIdades.dll

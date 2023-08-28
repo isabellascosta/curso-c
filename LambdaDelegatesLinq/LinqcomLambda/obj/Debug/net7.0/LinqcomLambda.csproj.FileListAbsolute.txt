@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\bin\Debug\net7.0\LinqcomLambda.exe
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\bin\Debug\net7.0\LinqcomLambda.deps.json
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\bin\Debug\net7.0\LinqcomLambda.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\bin\Debug\net7.0\LinqcomLambda.dll
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\bin\Debug\net7.0\LinqcomLambda.pdb
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\obj\Debug\net7.0\LinqcomLambda.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\obj\Debug\net7.0\LinqcomLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\obj\Debug\net7.0\LinqcomLambda.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\obj\Debug\net7.0\LinqcomLambda.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\obj\Debug\net7.0\LinqcomLambda.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\obj\Debug\net7.0\LinqcomLambda.dll
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\obj\Debug\net7.0\refint\LinqcomLambda.dll
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\obj\Debug\net7.0\LinqcomLambda.pdb
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\obj\Debug\net7.0\LinqcomLambda.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\LinqcomLambda\obj\Debug\net7.0\ref\LinqcomLambda.dll

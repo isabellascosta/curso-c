@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\obj\Debug\net7.0\Func.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\obj\Debug\net7.0\Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\obj\Debug\net7.0\Func.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\obj\Debug\net7.0\Func.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\obj\Debug\net7.0\Func.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\bin\Debug\net7.0\Func.exe
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\bin\Debug\net7.0\Func.deps.json
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\bin\Debug\net7.0\Func.runtimeconfig.json
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\bin\Debug\net7.0\Func.dll
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\bin\Debug\net7.0\Func.pdb
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\obj\Debug\net7.0\Func.dll
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\obj\Debug\net7.0\refint\Func.dll
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\obj\Debug\net7.0\Func.pdb
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\obj\Debug\net7.0\Func.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\curso-c\LambdaDelegatesLinq\Func\obj\Debug\net7.0\ref\Func.dll

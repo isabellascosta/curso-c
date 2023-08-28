@@ -5,7 +5,9 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApenasExercicios", "ApenasExercicios\ApenasExercicios.csproj", "{6CC6FA57-1FB3-4860-9FCD-0D23CD80C479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01", "ex01\ex01.csproj", "{8B769BCD-1021-499C-AB41-0F13A4A90153}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex01", "ex01\ex01.csproj", "{8B769BCD-1021-499C-AB41-0F13A4A90153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DescobrindoIdades", "Descobrindo idades\DescobrindoIdades.csproj", "{8E27E900-6165-4646-A346-FD9999464B60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8B769BCD-1021-499C-AB41-0F13A4A90153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B769BCD-1021-499C-AB41-0F13A4A90153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B769BCD-1021-499C-AB41-0F13A4A90153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E27E900-6165-4646-A346-FD9999464B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E27E900-6165-4646-A346-FD9999464B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E27E900-6165-4646-A346-FD9999464B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E27E900-6165-4646-A346-FD9999464B60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
